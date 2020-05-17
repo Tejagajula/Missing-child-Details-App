@@ -2,7 +2,7 @@
   "name": "signup_v3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Tejagajula/Missing-child-Details-App/",
+  "homepage": "https://tejagajula.github.io/Missing-child-Details-App/",
   "dependencies": {
     "@material-ui/core": "^3.2.0",
     "antd": "^3.10.1",
